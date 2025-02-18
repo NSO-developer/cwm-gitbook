@@ -1,2 +1,2 @@
 # cwm-gitbook
-Manage network changes more easily and quickly.
+GitBook based docs for managing network changes more easily and quickly.
